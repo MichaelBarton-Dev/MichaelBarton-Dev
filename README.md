@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @MichaelBarton-Dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MichaelBarton-Dev/MichaelBarton-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in kotling, rust and typescript
+- 🌱 I’m currently learning typescript
+- 💞️ I’m looking to collaborate on java proyects and web development
+- 📫 If you need anything reach me at: michaelbarton@tutanota.com
