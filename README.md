@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichaelBarton-Dev
-- 👀 I’m interested in kotling, rust and typescript
-- 🌱 I’m currently learning typescript
-- 💞️ I’m looking to collaborate on java proyects and web development
+- 👀 I’m interested in kotlin, rust and go
+- 🌱 I’m currently learning rust
+- 💞️ I’m looking to collaborate on projects in the long run
 - 📫 If you need anything reach me at: michaelbarton@tutanota.com
