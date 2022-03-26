@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @MichaelBarton-Dev
-- 👀 I’m interested in kotlin, rust and go
-- 🌱 I’m currently learning rust
-- 📫 If you need anything reach me at: michaelbarton@tutanota.com
+- 👋 Hi, I’m @MichaelBarton-Dev if you need anything reach me at: michaelbarton@tutanota.com
